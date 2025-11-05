@@ -1,0 +1,2 @@
+None cannot compared with type int
+len(list) should be -1 in for loop range
